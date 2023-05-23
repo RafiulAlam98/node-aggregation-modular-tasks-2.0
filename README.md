@@ -1,4 +1,4 @@
-### What is the purpose of creating a model with an interface and schema in MongoDB? How does it help in defining the structure of a collection?
+# What is the purpose of creating a model with an interface and schema in MongoDB? How does it help in defining the structure of a collection?
 To define and enforce a consistent structure and behaviour for the data stored in the database model has been created with interface and schema. 
 
 To establish the rules for the fields, their types, and any constraints or validations that are applied to the data is known to the schema. This helps to maintain data integrity and consistency, ensuring that only valid and expected data is stored.
